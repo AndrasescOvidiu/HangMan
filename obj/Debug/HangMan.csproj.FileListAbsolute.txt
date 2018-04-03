@@ -1,0 +1,11 @@
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.csprojResolveAssemblyReference.cache
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.Form1.resources
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.Properties.Resources.resources
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.csproj.GenerateResource.Cache
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.exe
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.exe
+c:\users\ovi\documents\visual studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.start.resources
+C:\Users\Ovi\Documents\Visual Studio 2015\Projects\HangMan\HangMan\obj\Debug\HangMan.highscore.resources

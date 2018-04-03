@@ -1,0 +1,5 @@
+Ion|70
+Vasile|200
+Marcel|100
+Nicel|250
+Sandala|120
